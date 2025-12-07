@@ -12,7 +12,7 @@ Ansible can be installed using multiple methods depending on your operating syst
 pip install ansible
 
 # Install specific version
-pip install ansible==9.0.0
+pip install ansible==8.7.0
 
 # Install with extras
 pip install ansible[azure]    # Azure modules
